@@ -1,21 +1,5 @@
-### Hi there 👋
 
-<!--
-**sren1618/sren1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi, I'm Anish. Nice to meet you! <img src="https://raw.githubusercontent.com/ooanishoo/ooanishoo/main/public/wave.gif" width="30px">
+# Hi, I'm Shiqiang. Nice to meet you! <img src="https://raw.githubusercontent.com/ooanishoo/ooanishoo/main/public/wave.gif" width="30px">
 
 <img  src="./public/contributions.svg" alt="contributions" /></a>
 
@@ -28,7 +12,7 @@ I bring a unique blend of creativity and technical expertise to deliver user-foc
 - 🇦🇺 I'm based in Melbourne, Australia
 - 🚀 I'm currently working at [Zendesk](https://www.zendesk.com/au/)
 - 💻 Checkout my new portfolio [anish-dev.com](http://anish-dev.com)
-- 📧 You can reach out to me at [hireme.anish@gmail.com](mailto:hireme.anish@gmail.com)
+- 📧 You can reach out to me at [sren1618@icloud.com](mailto:sren1618@icloud.com)
 - 🤝 I'm open to collaborating on exciting projects as a front-end or full-stack engineer.
 
 ## Stack I love to work with
@@ -55,28 +39,3 @@ I bring a unique blend of creativity and technical expertise to deliver user-foc
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/sketch-2.svg" title="Sketch">
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD">
 </p>
-
-
-## Want to create something together?
-
-Get in touch! Say Hello 👋🏻
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ooanishoo" target="_blank">
-    <img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/ooanishoo/" target="_blank">
-    <img height="30" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter">
-  </a>
-  <a href="https://www.polywork.com/ooanishoo" target="_blank">
-    <img height="30" src="https://user-images.githubusercontent.com/9260574/248451446-a80c561d-2745-4a6e-be79-bf8931e1ef7a.svg" alt="Polywork"></a>
-</p>
-
-
-## Support Me
-
-![Anish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ooanishoo&theme=github-compact)
-
-☕️ If you like my work, you can support me by buying me a coffee. I would really appreciate it!
-
-<a href="https://www.buymeacoffee.com/ooanishoo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
