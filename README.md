@@ -1,19 +1,23 @@
 
-# Hi, I'm Shiqiang. Nice to meet you! <img src="https://raw.githubusercontent.com/ooanishoo/ooanishoo/main/public/wave.gif" width="30px">
+# Hi, I'm Shiqiang. Nice to meet you! <img src="./public/wave.gif" width="30px">
 
-<img  src="./public/github-contributions.svg" alt="contributions" /></a>
 
 I'm a Software Engineer with a demonstrated history of working in backend and frontend technologies. I love to design and build digital products that solve customer problems.
 
 I bring a unique blend of creativity and technical expertise to deliver user-focused digital experiences.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=200&color=F0DB4F&width=435&lines=Senior+Software+Engineer;Mentor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=200&color=F0DB4F&width=435&lines=Graduate+Software+Engineer;Graduate+Fullstack+Developer)](https://git.io/typing-svg)
 
-- 🇦🇺 I'm based in Melbourne, Australia
-- 🚀 I'm currently working at [Zendesk](https://www.zendesk.com/au/)
-- 💻 Checkout my new portfolio [anish-dev.com](http://anish-dev.com)
-- 📧 You can reach out to me at [sren1618@icloud.com](mailto:sren1618@icloud.com)
+
+- 🚀 
+- 💻 
 - 🤝 I'm open to collaborating on exciting projects as a front-end or full-stack engineer.
+- 🇦🇺 I'm based in Melbourne, Australia
+- 📖 I’m currently a graduate student at the University of Melbourne.
+- 🔭 **Looking for Graduate/Entry level Software Engineer jobs.**
+- 🌱 I’m currently interest in and eger to learn **any tech skills**.
+- 📧 You can reach out to me at [sren1618@icloud.com](mailto:sren1618@icloud.com)
+<img  src="./public/github-contributions.svg" alt="contributions" /></a>
 
 ## Stack I love to work with
 
