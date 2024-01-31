@@ -1,7 +1,7 @@
 
 # Hi, I'm Shiqiang. Nice to meet you! <img src="https://raw.githubusercontent.com/ooanishoo/ooanishoo/main/public/wave.gif" width="30px">
 
-<img  src="./public/contributions.svg" alt="contributions" /></a>
+<img  src="./public/github-contributions.svg" alt="contributions" /></a>
 
 I'm a Software Engineer with a demonstrated history of working in backend and frontend technologies. I love to design and build digital products that solve customer problems.
 
