@@ -7,11 +7,6 @@ I'm a Software Engineer with a demonstrated history of working in backend and fr
 I bring a unique blend of creativity and technical expertise to deliver user-focused digital experiences.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=200&color=F0DB4F&width=435&lines=Graduate+Software+Engineer;Graduate+Fullstack+Developer)](https://git.io/typing-svg)
-
-
-- 🚀 
-- 💻 
-- 🤝 I'm open to collaborating on exciting projects as a front-end or full-stack engineer.
 - 🇦🇺 I'm based in Melbourne, Australia
 - 📖 I’m currently a graduate student at the University of Melbourne.
 - 🔭 **Looking for Graduate/Entry level Software Engineer jobs.**
@@ -19,29 +14,26 @@ I bring a unique blend of creativity and technical expertise to deliver user-foc
 - 📧 You can reach out to me at [sren1618@icloud.com](mailto:sren1618@icloud.com)
 <img  src="./public/github-contributions.svg" alt="contributions" /></a>
 
-🔧 Technical Stack (Still Expanding)
+## 🔧 Technical Stack (Still Expanding)
+
+![Static Badge](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/React-black?style=plastic&logo=react)
 
+![Static Badge](https://img.shields.io/badge/JAVA-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 
-<p align="left">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="Html5">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS3">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="Javascript">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="Typescript">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="Redux">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="tailwindcss">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="next js">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/storybook-1.svg" title="Storybook">
-  <img height="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" title="Jest">
-  <img height="30" src="https://github.com/ooanishoo/ooanishoo/assets/9260574/5af58c38-ce77-4eac-acfe-2aa290dab56d" title="Testing Library">
-  <img height="30" src="https://github.com/ooanishoo/ooanishoo/assets/9260574/74368b58-80ce-49fd-8a42-e89600048507" title="Cypress">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" title="NodeJS">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="AWS">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL">
-  <img height="30" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" title="Figma">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/sketch-2.svg" title="Sketch">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD">
-</p>
+![Static Badge](https://img.shields.io/badge/MySql-5071a6?style=flat&logo=mysql&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=flat&logo=docker&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+
+
