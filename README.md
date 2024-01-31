@@ -23,7 +23,7 @@ I bring a unique blend of creativity and technical expertise to deliver user-foc
 ![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/MySql-5071a6?style=flat&logo=mysql&logoColor=white)
 
