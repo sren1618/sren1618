@@ -2,7 +2,7 @@
 # Hi, I'm Shiqiang. Nice to meet you! <img src="./public/wave.gif" width="30px">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=200&color=F0DB4F&width=435&lines=Graduate+Software+Engineer;Graduate+Fullstack+Developer)](https://git.io/typing-svg)
 
-I'm passion about designing and creating technical solutions that address customer needs, I bring a unique blend of creativity and technical expertise to deliver user-focused digital experiences. 
+I'm passionate about designing and creating technical solutions that address customer needs, I bring a unique blend of creativity and technical expertise to deliver user-focused digital experiences. 
 
 I am eager to contribute my perspective and technical expertise to a dynamic team, where I can continue to learn and grow as a software engineer. 
 
@@ -10,7 +10,7 @@ I am eager to contribute my perspective and technical expertise to a dynamic tea
 - 🇦🇺 I'm based in Melbourne, Australia
 - 📖 I’m currently a graduate student at the University of Melbourne.
 - 🔭 **Looking for Graduate/Entry level Software Engineer jobs.**
-- 🌱 I’m currently interest in and eger to learn **any tech skills**.
+- 🌱 I’m currently interested in and willing to learn **any tech skills**.
 - 📧 You can reach out to me at [sren1618@icloud.com](mailto:sren1618@icloud.com)
 <img  src="./public/github-contributions.svg" alt="contributions" /></a>
 
