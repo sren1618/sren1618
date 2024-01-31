@@ -19,7 +19,9 @@ I bring a unique blend of creativity and technical expertise to deliver user-foc
 - 📧 You can reach out to me at [sren1618@icloud.com](mailto:sren1618@icloud.com)
 <img  src="./public/github-contributions.svg" alt="contributions" /></a>
 
-## Stack I love to work with
+🔧 Technical Stack (Still Expanding)
+![Static Badge](https://img.shields.io/badge/React-black?style=plastic&logo=react)
+
 
 <p align="left">
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="Html5">
